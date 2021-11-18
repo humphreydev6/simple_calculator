@@ -87,7 +87,7 @@ button_multiply = Button(root, text="*", padx=40, pady=20, command= button_multi
 button_divide = Button(root, text="/", padx=41, pady=20, command= button_divide)
 
 button_add = Button(root, text="+", padx=40, pady=20, command= button_add)
-button_equal = Button(root, text="=", padx=91, pady=20, command = button_equal)
+button_equal = Button(root, text="=", padx=80, pady=20, command = button_equal)
 button_clear = Button(root, text="Clear", padx=79, pady=20, command= button_clear)
 
 
